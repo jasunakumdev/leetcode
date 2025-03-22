@@ -13,3 +13,8 @@ var plusOne = function (digits) {
 }
 
 console.log(plusOne([9]))
+
+/*
+Time Complexity: O(n) (Worst case: all digits are 9, requiring full iteration).
+Space Complexity: O(1) (Modifies the array in place, no extra storage).
+*/
